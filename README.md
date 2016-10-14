@@ -2,7 +2,7 @@
 
 This is a Node project that allows you to create, watch, edit and debug with Grunt npm install. To run the this app you will need to open up your command line and run (node app) in the folder that you download the project files to.
 
-<h3>Node Package Manager Installs</h3>:
+<h3>Node Package Manager Installs</h3>
 
 <ul>
 <li>browserify</li>
