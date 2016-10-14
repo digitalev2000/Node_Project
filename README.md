@@ -1,6 +1,6 @@
 # Richard Berry Node_Project
 
-This is a Node project that allows you to create, watch, edit and debug with Grunt npm install. To run the this app you will need to open up your command line and run (node app) in the folder that you download the project files to.
+This is a Node project that allows you to create, watch, edit and debug with Grunt npm install. To run the this app you will need to open up your command line and run (node app) in the folder that you download the project files to. The app also compiles javascript files into one (bundle.js) file and compiles LESS to one CSS file named style.css. 
 
 <h3>Node Package Manager Installs</h3>
 
@@ -15,7 +15,7 @@ This is a Node project that allows you to create, watch, edit and debug with Gru
 <li>jquery</li>
 </ul>
 
-Note: The port being used is port 3000. Please make sure that this port is open in your hosts file before trying to run the application. In the public folder there is also an index page that allows a user to add term definitions too. Chech it out to see it in action.  
+<blockquote>Note: The port being used is port 3000. Please make sure that this port is open in your hosts file before trying to run the application. In the public folder there is also an index page that allows a user to add term definitions too. Chech it out to see it in action.  </blockquote>
 
 
 
